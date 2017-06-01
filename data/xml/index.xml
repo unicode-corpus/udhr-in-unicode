@@ -95,8 +95,8 @@
   <udhr f='cha'                iso639-3='cha'    bcp47='ch'             dir='ltr'  ohchr='cjd'    stage='4' notes='n' loc='14.33,145.28'         region='Pacific'     demo='n' n='Chamorro'/>
   <udhr f='chj'                iso639-3='chj'    bcp47='chj'            dir='ltr'  ohchr='chj'    stage='4' notes='n' loc='18.07,-96.34'         region='Americas'    demo='n' n='Chinantec, Ojitlán'/>
   <udhr f='chk'                iso639-3='chk'    bcp47='chk'            dir='ltr'  ohchr='tru1'   stage='4' notes='n' loc='7.34,151.60'          region='Pacific'     demo='n' n='Chuukese'/>
-  <udhr f='chr_uppercase'      iso639-3='chr'    bcp47='chr'            dir='ltr'  ohchr=''       stage='4' notes='n' loc='35.47,-83.16'         region='Americas'    demo='y' n='Cherokee (uppercase)'/>
   <udhr f='chr_cased'          iso639-3='chr'    bcp47='chr'            dir='ltr'  ohchr=''       stage='4' notes='n' loc='35.47,-83.16'         region='Americas'    demo='y' n='Cherokee (cased)'/>
+  <udhr f='chr_uppercase'      iso639-3='chr'    bcp47='chr'            dir='ltr'  ohchr=''       stage='4' notes='n' loc='35.47,-83.16'         region='Americas'    demo='y' n='Cherokee (uppercase)'/>
   <udhr f='chx'                iso639-3='chx'    bcp47='chx'            dir='ltr'  ohchr='chx'    stage='2' notes='n' loc='28.7,83.5'            region='Asia'        demo='n' n='Chantyal'/>                            <!-- deva medium image-->
   <udhr f='cic'                iso639-3='cic'    bcp47='cic'            dir='ltr'  ohchr='cic'    stage='4' notes='n' loc='33.95,-97.13'         region='Americas'    demo='n' n='Chickasaw'/>
   <udhr f='cjk'                iso639-3='cjk'    bcp47='cjk'            dir='ltr'  ohchr='cjk'    stage='4' notes='n' loc='-9.66,21.40'          region='Africa'      demo='n' n='Chokwe'/>
@@ -162,6 +162,7 @@
   <udhr f='gld'                iso639-3='gld'    bcp47='gld'            dir='ltr'  ohchr='gld'    stage='2' notes='n' loc='48.43,134.80'         region='Asia'        demo='n' n='Nanai'/>                         <!-- cyrl PDF text -->
   <udhr f='gle'                iso639-3='gle'    bcp47='ga'             dir='ltr'  ohchr='gli1'   stage='4' notes='n' loc='53.22,-7.62'          region='Europe'      demo='n' n='Gaelic, Irish'/>
   <udhr f='glg'                iso639-3='glg'    bcp47='gl'             dir='ltr'  ohchr='gln'    stage='4' notes='n' loc='42.24,-7.53'          region='Europe'      demo='n' n='Galician'/>
+  <udhr f='glv'                iso639-3='glv'    bcp47='gv'             dir='ltr'  ohchr=''       stage='4' notes='n' loc='54.23,-4.85'          region='Europe'      demo='n' n='Manx'/>
   <udhr f='gno'                iso639-3='gno'    bcp47='gno'            dir='ltr'  ohchr='gno'    stage='2' notes='n' loc='18.16,81.38'          region='Asia'        demo='n' n='Gondi, Northern'/>           <!-- deva PDF text -->
   <udhr f='guc'                iso639-3='guc'    bcp47='guc'            dir='ltr'  ohchr='guc'    stage='4' notes='n' loc='10.23,-71.81'         region='Americas'    demo='n' n='Wayuu'/>
   <udhr f='gug'                iso639-3='gug'    bcp47='gn'             dir='ltr'  ohchr='gun'    stage='4' notes='n' loc='-25.61,-57.09'        region='Americas'    demo='n' n='Guaraní, Paraguayan'/>
@@ -292,6 +293,7 @@
   <udhr f='mlt'                iso639-3='mlt'    bcp47='mt'             dir='ltr'  ohchr='mls'    stage='4' notes='n' loc='35.89,14.45'          region='Europe'      demo='n' n='Maltese'/>
   <udhr f='mly_arab'           iso639-3='zlm'    bcp47='ms-Arab'        dir='rtl'  ohchr=''       stage='4' notes='n' loc='1.86,103.00'          region='Asia'        demo='n' n='Malay (Arabic)'/>
   <udhr f='mly_latn'           iso639-3='zlm'    bcp47='ms-Latn'        dir='ltr'  ohchr='mli'    stage='4' notes='n' loc='1.86,103.00'          region='Asia'        demo='n' n='Malay (Latin)'/>
+  <udhr f='mnw'                iso639-3='mnw'    bcp47='mnw'            dir='ltr'  ohchr=''       stage='4' notes='n' loc='10.0,100'             region='Asia'        demo='n' n='Mon'/>
   <udhr f='mos'                iso639-3='mos'    bcp47='mos'            dir='ltr'  ohchr='mhm'    stage='4' notes='n' loc='10.45,-1.17'          region='Africa'      demo='n' n='Mòoré'/>
   <udhr f='mri'                iso639-3='mri'    bcp47='mi'             dir='ltr'  ohchr='mbf'    stage='4' notes='n' loc='-38.29,176.54'        region='Pacific'     demo='n' n='Maori'/>
   <udhr f='mto'                iso639-3='mto'    bcp47='mto'            dir='ltr'  ohchr='mto'    stage='4' notes='n' loc='17.22,-96.02'         region='Americas'    demo='n' n='Mixe, Totontepec'/>
